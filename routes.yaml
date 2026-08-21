@@ -4,10 +4,12 @@ routes:
     region: Tessin
     from: Vergeletto
     to: Lodano
-    distance_km: 23.28
-    ascent_m: 1862
-    descent_m: 2420
+    distance_km: 23.31
+    ascent_m: 1769
+    descent_m: 2326
+    duration_h: 9.76
     gpx: gpx/vergeletto-lago-dalzasca-lodano.gpx
     raw_gpx_url: https://raw.githubusercontent.com/mict-zhaw/hikes/main/gpx/vergeletto-lago-dalzasca-lodano.gpx
     swisstopo_url: https://swisstopo.app/u/aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL21pY3Qtemhhdy9oaWtlcy9tYWluL2dweC92ZXJnZWxldHRvLWxhZ28tZGFsemFzY2EtbG9kYW5vLmdweA==
     notion_page_id: 3c32ae06-dc08-8107-8c12-f91048271912
+    note: "GPX track in this repo is geometry-simplified for sharing/import; route metadata comes from the original swisstopo GPX."
